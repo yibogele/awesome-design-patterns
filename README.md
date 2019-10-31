@@ -65,6 +65,8 @@
 	- [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - React
 	- [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+	- [react-bits](https://github.com/vasanthk/react-bits)
+	- [reactpatterns.com](https://reactpatterns.com)
 - Ruby
 	- [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) 
 - Scala
@@ -172,6 +174,7 @@
 - [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 - [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 - [Game Programming Patterns](https://github.com/munificent/game-programming-patterns)
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 
 ## Other Awesome Lists
 - Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) list.
