@@ -1,4 +1,4 @@
-# Awesome Software Design Patterns 
+# Awesome Software and Architectural Design Patterns 
 <br>
 
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> <a href="https://gitter.im/awesome-design-patterns/Lobby"><img src="https://badges.gitter.im/awesome-design-patterns/Lobby.svg" alt="awesome"></a> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> 
@@ -27,8 +27,6 @@
 - [Front End Development](#front-end-development)
 - [Security](#security)
 - [Books](#books)
-- [Videos](#videos)
-- [Miscellaneous](#miscellaneous)
 
 <br>
 
@@ -38,6 +36,7 @@
 - C#
 	- [design-patterns](https://github.com/abishekaditya/DesignPatterns) 
 	- [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+	- [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary)
 - C++
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
@@ -80,6 +79,8 @@
 - UML
 	- [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
 	- [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
+- Vue.js
+	- [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 	
 	
 ## General Architecture
@@ -102,9 +103,14 @@
 ## Serverless Architecture
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns) - Serverless Architecture: Five Design Patterns.
 - [solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures) - Patterns for Solving Problems in Serverless Architectures.
+- [serverless patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - serverless microservice patterns for aws.
+- [serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures//) - serverless microservice patterns with deployment scripts.
+
+
+
+
 
 ## Micro services & Distributed Systems
-- [microservice patterns](http://microservicepatterns.org) - A community site dedicated to documenting a master patterns catalog.
 - [microservices](http://microservices.io/patterns) - A pattern language for microservices.
 - [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
 - [12factor](https://12factor.net) - The twelve-factor methodology.
